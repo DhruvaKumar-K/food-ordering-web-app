@@ -108,7 +108,10 @@ http://localhost:8080/FoodApp
 
 ## 👨‍💻 Author
 
-**Veera Pathiran**
-Aspiring Full Stack Developer
+**Dhruva Kumar K**
+Computer Science Engineering (AI & ML) Graduate
+Aspiring Full Stack Java Developer
+
+GitHub: https://github.com/DhruvaKumar-K
 
 ---
